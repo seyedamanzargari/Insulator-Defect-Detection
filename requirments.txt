@@ -1,0 +1,8 @@
+xmltodict
+ultralytics
+requests
+scikit-learn
+argparse
+tqdm
+opencv-python
+gradio
